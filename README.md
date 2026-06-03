@@ -42,10 +42,15 @@ Ecommerce App (Producer)
   Power BI Dashboard
 
 🧰 Tech Stack
-LayerTechnologyEvent StreamingApache KafkaProducer / ConsumerPython (confluent-kafka)Data WarehouseSnowflakeData ProcessingPython, Pandas, SQLDashboardPower BIEnvironmentPython Virtual Environment (venv)Version ControlGit & GitHub
+Apache Kafka
+Snowflake
+Python, Pandas
+lGit & GitHub
 
 📁 Project Architectural Diagram
-C:\Users\Lilian\kafka-ecom\Evommerce Analysis.drawio.png
+
+<img width="4272" height="1884" alt="image" src="https://github.com/user-attachments/assets/4f8f02a1-b273-4279-badc-92baf52567f9" />
+
 
 ⚙️ Setup & Installation
 1. Clone the Repository
