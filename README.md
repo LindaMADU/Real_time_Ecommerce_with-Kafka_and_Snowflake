@@ -45,7 +45,7 @@ Ecommerce App (Producer)
 Apache Kafka
 Snowflake
 Python, Pandas
-lGit & GitHub
+Git & GitHub
 
 📁 Project Architectural Diagram
 
