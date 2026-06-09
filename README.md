@@ -67,7 +67,7 @@ venv\Scripts\activate.bat
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 venv\Scripts\activate
 
-# Activate (Mac/Linux)
+# Activate (Wsl Linux)
 source venv/bin/activate
 3. Install Dependencies
 bashpip install -r requirements.txt
